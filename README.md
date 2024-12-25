@@ -15,6 +15,7 @@ pip install -r requirements.txt
 ```
 # Citation
 If you use this project in your research, please cite the following paper:
+```sql
 @article{Zhu2023APM,
   title={A prompt model with combined semantic refinement for aspect sentiment analysis},
   author={Xinhua Zhu and Zhongjie Kuang and Lanfang Zhang},
@@ -24,3 +25,4 @@ If you use this project in your research, please cite the following paper:
   pages={103462},
   url={https://api.semanticscholar.org/CorpusID:260105991}
 }
+```
